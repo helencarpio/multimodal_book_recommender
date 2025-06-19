@@ -1,4 +1,4 @@
-# multimodal-book-recommender
+# multimodal_book_recommender
 This project explores the use of text and image data to recommend popular English books. It involves data preprocessing, clustering, association rule mining, and model evaluation.
 
 
